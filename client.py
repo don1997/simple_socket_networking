@@ -6,5 +6,3 @@ import socket
 #1 A string containing your name 
 #2 the entered integer value and then wait for a server reply
 
-HOST = 
-PORT = 
